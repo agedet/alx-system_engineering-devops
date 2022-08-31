@@ -1,1 +1,1 @@
-This repository contains script for testing out shel basics
+This repository contains script to test shell basics
